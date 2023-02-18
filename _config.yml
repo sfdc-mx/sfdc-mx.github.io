@@ -21,7 +21,7 @@
 title: SFDC MX
 email: alfonos@sfdc.mx
 description: >- # this means to ignore newlines until "baseurl:"
-Sitio para compartir contenido en español sobre SFDC y sus diferentes tecnologias
+  Sitio para compartir contenido en español sobre SFDC y sus diferentes tecnologias
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "sfdc.mx" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: churrosrellenos
